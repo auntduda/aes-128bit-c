@@ -1,2 +1,2 @@
-# aes-128bit-c
-epopeias de uma querida que achou uma mina de ouro na internet e quis guardar aqui no github
+# Cifra AES com Chave de 128 bits na Linguagem C de Programação
+Coincidentemente, eu achei essa implementação da cifra AES no site da (Texas Instruments)[https://www.ti.com/tool/AES-128?utm_source=google&utm_medium=cpc&utm_campaign=epd-null-null-prodfolderdynamic-cpc-pf-google-wwe_int&utm_content=prodfolddynamic&ds_k=DYNAMIC+SEARCH+ADS&DCM=yes&gclid=Cj0KCQjwho-lBhC_ARIsAMpgModTFI4pf16AzrSqf2C2qM01CbVFkX6v9PhxLdyfUlFyN4CteViF4s0aAuXREALw_wcB&gclsrc=aw.ds] e quis guardar aqui no GitHub para referências futuras.
